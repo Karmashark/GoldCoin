@@ -1,0 +1,1 @@
+GoldCoin smartcontract
